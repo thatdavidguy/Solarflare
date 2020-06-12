@@ -21,4 +21,7 @@ Solarflare project is to try and determine the location of solarflares found on 
 2. Launch the python code and a simple tab will open.
 3. Just type in the name of your image with the ending(.png or .jpg) and it will show you the image with the threshold applied and another image with the contours draw. Check the python shell for the amount of contours found and drawn.
 
+## Navigating the "app"
+1. Click on settings to open up settings.
+2. After the images are opened, you can close them properly by pressing the enter key
 #### created by 2 students (Keith and David)
