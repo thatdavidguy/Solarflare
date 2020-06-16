@@ -54,6 +54,10 @@ def start_contour():
             
             #set pixels to black(0) or white(1) if they meet a certain threshhold
             th, threshed = cv2.threshold(gray,average,255, cv2.THRESH_BINARY)#|cv2.THRESH_OTSU)
+            
+            #UNCOMMENT LINE BELOW IF THE SPOT YOUR LOOKING FOR IS DARK NOT LIGHT (the line of code just inverses the 1s and 0s)
+            #threshed = cv2.bitwise_not(threshed)
+            
             #Find the contours of this new black and white image
             contours, hierarchy = cv2.findContours(threshed,cv2.RETR_TREE,cv2.CHAIN_APPROX_NONE)
             #Print amount of contours found (total)
