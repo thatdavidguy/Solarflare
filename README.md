@@ -7,13 +7,13 @@ Solarflare project is to try and determine the location of solarflares found on 
 
 ## Dependencies 
 1. Please be sure to have these python libraries installed links are included (most of these are using pip3 to install the library).
-  1.1 openCV
+1.1 openCV
     pip3 install opencv-python-headless
-  1.2 PIL
+2. PIL
     pip3 install pillow
-  1.3 Numpy 
+3. Numpy 
     pip3 install numpy
-  1.4 Tkinter
+4. Tkinter
     pip3 install tkinter
 
 ## Running the Code
