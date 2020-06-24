@@ -5,7 +5,8 @@ Solarflare project is to try and determine the location of solarflares found on 
 
 ## Installation
 1. Make sure you have a proper IDE(Integrated development environment) to run the code such as Visual Studio Code for python or python IDLE.
-2. Open the code by clicking the raw button on github found above and download/copy the code or any another way you can download the code.
+2. Simply download the zip file and make sure the python script is in the same file as the image you want to check.
+
 
 ## Dependencies 
 Please be sure to have these python libraries installed links are included (most of these are using pip3 to install the library).
