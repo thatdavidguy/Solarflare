@@ -22,6 +22,32 @@ Solarflare project is to try and determine the location of solarflares found on 
 3. Just type in the name of your image with the ending(.png or .jpg) and it will show you the image with the threshold applied and another image with the contours draw. Check the python shell for the amount of contours found and drawn.
 
 ## Navigating the "app"
-1. Click on settings to open up settings.
-2. After the images are opened, you can close them properly by pressing the enter key
+##### On the main tab you will encounter 4 things,
+Entry box
+(enter the name of your image inside this entry box)
+find (lighter) spots 
+(click this to find where the light spots are)
+find (darker) spots 
+(click this to find where the dark spots are)
+settings
+(click this to open the settings tab)
+
+###### Settings tab
+minimum area
+(enter minimum area a spot has to be)
+maximum area
+(enter maximum area a spot has to be)
+sensitivity
+(enter sensitivity of the program. The larger the sensitivity the more spots)
+open area select
+(click this to open the area tab)
+
+###### area tab
+First coordinate
+(click this and then on the image on displayed on the main tab to click your first coordinate)
+Second coordinate
+(click this and then on the image on displayed on the main tab to click your second coordinate)
+Delete all coordinates
+(click this to delete all coordinates)
+
 #### created by 2 students (Keith and David)
