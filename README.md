@@ -54,6 +54,6 @@ Please be sure to have these python libraries installed links are included (most
 (click this and then on the image on displayed on the main tab to click your second coordinate)
 3. Delete all coordinates.   
 (click this to delete all coordinates)
-![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagearealines.png)
+
 
 #### created by 2 students (Keith and David)
