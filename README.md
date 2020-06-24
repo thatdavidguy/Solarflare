@@ -6,15 +6,15 @@ Solarflare project is to try and determine the location of solarflares found on 
 2. Open the code by clicking the raw button on github found above and download/copy the code or any another way you can download the code.
 
 ## Dependencies 
-1. Please be sure to have these python libraries installed links are included (most of these are using pip3 to install the library).
-1.1 openCV
-    pip3 install opencv-python-headless
+Please be sure to have these python libraries installed links are included (most of these are using pip3 to install the library).
+1. openCV
+```$pip3 install opencv-python-headless ```
 2. PIL
-    pip3 install pillow
+```$pip3 install pillow ```
 3. Numpy 
-    pip3 install numpy
+```$pip3 install numpy ```
 4. Tkinter
-    pip3 install tkinter
+```$pip3 install tkinter ```
 
 ## Running the Code
 1. Make sure the image you want to check and the code are in the same folder (make a new one if possible).
