@@ -1,6 +1,8 @@
 # Solarflare
 Solarflare project is to try and determine the location of solarflares found on the sun.
 
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagecontours.png)
+
 ## Installation
 1. Make sure you have a proper IDE(Integrated development environment) to run the code such as Visual Studio Code for python or python IDLE.
 2. Open the code by clicking the raw button on github found above and download/copy the code or any another way you can download the code.
@@ -22,32 +24,36 @@ Please be sure to have these python libraries installed links are included (most
 3. Just type in the name of your image with the ending(.png or .jpg) and it will show you the image with the threshold applied and another image with the contours draw. Check the python shell for the amount of contours found and drawn.
 
 ## Navigating the "app"
-##### On the main tab you will encounter 4 things,
-Entry box
+#### On the main tab you will encounter 4 things,
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimage.png)
+1. Entry box.   
 (enter the name of your image inside this entry box)
-find (lighter) spots 
+2. find (lighter) spots.   
 (click this to find where the light spots are)
-find (darker) spots 
+3. find (darker) spots.   
 (click this to find where the dark spots are)
-settings
+4. settings.   
 (click this to open the settings tab)
 
-###### Settings tab
-minimum area
+#### Settings tab
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagesettings.png)
+1. minimum area.   
 (enter minimum area a spot has to be)
-maximum area
+2. maximum area.   
 (enter maximum area a spot has to be)
-sensitivity
+3. sensitivity.   
 (enter sensitivity of the program. The larger the sensitivity the more spots)
-open area select
+4. open area select.   
 (click this to open the area tab)
 
-###### area tab
-First coordinate
+#### area tab
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagearea.png)
+1. First coordinate.   
 (click this and then on the image on displayed on the main tab to click your first coordinate)
-Second coordinate
+2. Second coordinate.   
 (click this and then on the image on displayed on the main tab to click your second coordinate)
-Delete all coordinates
+3. Delete all coordinates.   
 (click this to delete all coordinates)
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagearealines.png)
 
 #### created by 2 students (Keith and David)
