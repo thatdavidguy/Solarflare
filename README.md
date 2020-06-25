@@ -9,6 +9,12 @@ Solarflare project is to try and determine the location of solarflares found on 
 
 
 ## Dependencies 
+Simply run the following in your terminal:
+```pip install -r requirements.txt```
+
+
+Or
+
 Please be sure to have these python libraries installed links are included (most of these are using pip3 to install the library).
 1. openCV
 ```$pip3 install opencv-python-headless ```
