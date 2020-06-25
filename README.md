@@ -1,7 +1,7 @@
 # Solarflare
 Solarflare project is to try and determine the location of solarflares found on the sun.
 
-![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagecontours.png)
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/imagesforreadme/showimagecontours.png)
 
 ## Installation
 1. Make sure you have a proper IDE(Integrated development environment) to run the code such as Visual Studio Code for python or python IDLE.
@@ -32,7 +32,7 @@ Please be sure to have these python libraries installed links are included (most
 
 ## Navigating the "app"
 #### On the main tab you will encounter 4 things,
-![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimage.png)
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/imagesforreadme/showimage.png)
 1. Entry box.   
 (enter the name of your image inside this entry box)
 2. find (lighter) spots.   
@@ -43,7 +43,7 @@ Please be sure to have these python libraries installed links are included (most
 (click this to open the settings tab)
 
 #### Settings tab
-![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagesettings.png)
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/imagesforreadme/showimagesettings.png)
 1. minimum area.   
 (enter minimum area a spot has to be)
 2. maximum area.   
@@ -54,7 +54,7 @@ Please be sure to have these python libraries installed links are included (most
 (click this to open the area tab)
 
 #### area tab
-![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/showimagearea.png)
+![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/imagesforreadme/showimagearea.png)
 1. First coordinate.   
 (click this and then on the image on displayed on the main tab to click your first coordinate)
 2. Second coordinate.   
