@@ -9,8 +9,8 @@ Solarflare project is to try and determine the location of solarflares found on 
 
 
 ## Dependencies 
-Simply run the following in your terminal:
-```pip install -r requirements.txt```
+Simply run the following in your terminal once you have downloaded the project:
+```pip install -r dependencies.txt```
 
 
 Or
