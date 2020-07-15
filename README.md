@@ -1,5 +1,5 @@
 # Solarflare
-Solarflare project is to try and determine the location of solarflares found on the sun.
+Solarflare project is to try and determine the location of active regions found on the sun.
 
 ![alt text](https://github.com/thatdavidguy/Solarflare/blob/master/imagesforreadme/showimagecontours.png)
 
